@@ -84,7 +84,7 @@ Check out the ways you can contribute, below:
 - To work on existing JabRef issues, check out our [issue tracker](https://github.com/JabRef/jabref/issues). New to open source contributing? Look for issues with the ["good first issue"](https://github.com/JabRef/jabref/labels/good%20first%20issue) label to get started.
 
 Please follow our [step-by-step guide on how to set-up your workspace](https://devdocs.jabref.org/getting-into-the-code/guidelines-for-setting-up-a-local-workspace).
-
+I am editing the Readme file.
 We use [GitHub Actions](https://github.com/JabRef/jabref/actions) for executing the tests after each commit.
 For developing, it is sufficient to locally only run the associated test for the classes you changed.
 GitHub will report any other failure.
